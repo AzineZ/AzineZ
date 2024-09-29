@@ -1,9 +1,9 @@
 # 👋 Hi I'm Phi
 
-I'm a rising senior studying Computer Science at UCLA!
+💫 I'm a rising senior studying Computer Science at UCLA!
 
 👩🏻‍💻 I’m currently working with Qualcomm on developing a Vision Language Model to for public surveillance.<br>
-💭 I am proficient and interested in Software Development, Machine Learning and Data Science
+💭 I am proficient and passionate in Software Development, Machine Learning and Data Science
 
 ## 🌐 Socials:
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:nguyen.ph8299@gmail.com)
