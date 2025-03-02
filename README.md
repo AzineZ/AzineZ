@@ -2,7 +2,7 @@
 
 💫 I'm a rising senior studying Computer Science at UCLA!
 
-👩🏻‍💻 I’m currently working with Qualcomm on developing a Vision Language Model to for public surveillance.<br>
+👩🏻‍💻 I worked with Qualcomm on a Vision Language model that can detect and classify weapons and crimes from surveillance footage. This project was a fellowship where I worked in a team of 5 under a Camera Modeling Engineer at Qualcomm. <br>
 💭 I am proficient and passionate in Software Development, Machine Learning and Data Science
 
 ## 🌐 Socials:
