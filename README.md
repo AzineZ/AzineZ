@@ -8,8 +8,6 @@ I graduated from UCLA studying Computer Science!
 ## 🌐 Socials:
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:nguyen.ph8299@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/phi-nguyen-ab34451b6/)
-[![Personal Website](https://img.shields.io/badge/Portfolio-orange?style=flat-square)](https://phinguyen.netlify.app/)
-
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
