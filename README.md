@@ -1,9 +1,9 @@
 # 👋 Hi I'm Phi
 
-💫 I'm a rising senior studying Computer Science at UCLA!
+I graduated from UCLA studying Computer Science!
 
-👩🏻‍💻 I worked with Qualcomm on a Vision Language model that can detect and classify weapons and crimes from surveillance footage. This project was a fellowship where I worked in a team of 5 under a Camera Modeling Engineer at Qualcomm. <br>
-💭 I am proficient and passionate in Software Development, Machine Learning and Data Science
+👩🏻‍💻 My past experiences including building Full-stack websites for Non-profit Organization Smiles for Speech as part of a Hackathon, Course Tracker for UCLA CS students, and a robust Web Server with Image Hosting for my Capstone class. I also had a fellowship with Qualcomm where I worked on a Computer Vision model that can help detect possible signs of crime from surveillance footage. <br>
+💭 I am proficient and passionate in Software Development, Machine Learning and Data Science and I am actively looking for opportunities in these fields.
 
 ## 🌐 Socials:
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:nguyen.ph8299@gmail.com)
