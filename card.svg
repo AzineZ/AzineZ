@@ -110,6 +110,9 @@
 <rect x="494" y="326" width="46" height="16" rx="2" fill="var(--tag-bg)" stroke="var(--tag-border)" stroke-width="0.5"/>
 <text x="517" y="338" font-size="9" fill="var(--muted)" text-anchor="middle">docker</text>
 
+<rect x="546" y="326" width="70" height="16" rx="2" fill="var(--tag-bg)" stroke="var(--tag-border)" stroke-width="0.5"/>
+<text x="580" y="338" font-size="9" fill="var(--muted)" text-anchor="middle">google cloud</text>
+
 <line x1="32" y1="390" x2="648" y2="390" stroke="var(--border)" stroke-width="0.5"/>
 
 <!-- experience -->
