@@ -30,7 +30,3 @@ I graduated from UCLA studying Computer Science!
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) 
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-
-# 📊 Stats:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azinez&layout=compact&theme=github_dark&hide_border=True)
-![Phi's GitHub stats](https://github-readme-stats.vercel.app/api?username=azinez&show_icons=true&theme=github_dark&line_height=20&hide_border=True)
