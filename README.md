@@ -7,3 +7,9 @@
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://www.readmecodegen.com/api/social-icon?name=linkedin&size=32&color=%23ffffff" alt="linkedin" />
 </p>
+
+---
+
+<sub>
+Template made by <a href="https://github.com/DhritiVaz">@DhritiVaz</a>. Customized and adapted by Phi Nguyen.
+</sub>
