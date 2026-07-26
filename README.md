@@ -3,10 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:nguyen.ph8299@gmail.com">
-    <img src="https://img.shields.io/badge/Email-nguyen.ph8299%40gmail.com-555555?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/phi-nguyen-ab34451b6/">
-    <img src="https://img.shields.io/badge/LinkedIn-Phi%20Nguyen-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+  <img src="https://www.readmecodegen.com/api/social-icon?name=envelope&size=32&color=%23ffffff" alt="envelope" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://www.readmecodegen.com/api/social-icon?name=linkedin&size=32&color=%23ffffff" alt="linkedin" />
 </p>
