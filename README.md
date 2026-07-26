@@ -3,9 +3,13 @@
 </p>
 
 <p align="center">
-  <img src="https://www.readmecodegen.com/api/social-icon?name=envelope&size=32&color=%23ffffff" alt="envelope" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://www.readmecodegen.com/api/social-icon?name=linkedin&size=32&color=%23ffffff" alt="linkedin" />
+  <a href="mailto:nguyen.ph8299@gmail.com">
+    <img src="https://www.readmecodegen.com/api/social-icon?name=envelope&size=32&color=%23ffffff" alt="Email" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/phi-nguyen-ab34451b6/">
+    <img src="https://www.readmecodegen.com/api/social-icon?name=linkedin&size=32&color=%23ffffff" alt="LinkedIn" />
+  </a>
 </p>
 
 ---
