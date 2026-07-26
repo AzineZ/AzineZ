@@ -1,0 +1,193 @@
+<svg viewBox="0 0 680 610" xmlns="http://www.w3.org/2000/svg" font-family="'SF Mono', 'Fira Code', 'Cascadia Code', monospace">
+<style>
+:root {
+  --bg: #ffffff;
+  --bg1: #f6f8fa;
+  --border: #d0d7de;
+  --text: #1f2328;
+  --muted: #656d76;
+  --tag-bg: #f6f8fa;
+  --tag-border: #d0d7de;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #0d1117;
+    --bg1: #161b22;
+    --border: #30363d;
+    --text: #e6edf3;
+    --muted: #8b949e;
+    --tag-bg: #161b22;
+    --tag-border: #30363d;
+  }
+}
+</style>
+
+<rect width="680" height="610" fill="var(--bg)"/>
+
+<!-- name + tagline -->
+<text x="32" y="44" font-size="13" font-weight="500" fill="var(--text)" letter-spacing="1.5">phi nguyen</text>
+<text x="32" y="62" font-size="11" fill="var(--muted)" letter-spacing="0.5">software engineer · ucla cs · full-stack · systems · computer vision</text>
+
+<line x1="32" y1="78" x2="648" y2="78" stroke="var(--border)" stroke-width="0.5"/>
+
+<text x="32" y="98" font-size="9" fill="var(--muted)" letter-spacing="2" font-weight="500">SELECTED WORK</text>
+
+<!-- project grid -->
+<rect x="32" y="110" width="616" height="260" fill="none" stroke="var(--border)" stroke-width="0.5"/>
+<line x1="340" y1="110" x2="340" y2="370" stroke="var(--border)" stroke-width="0.5"/>
+<line x1="32" y1="240" x2="648" y2="240" stroke="var(--border)" stroke-width="0.5"/>
+
+<!-- smiles for speech -->
+<text x="48" y="136" font-size="11.5" font-weight="500" fill="var(--text)" letter-spacing="0.3">smiles for speech</text>
+<text x="48" y="154" font-size="10" fill="var(--muted)">Autism screening platform built for an NPO</text>
+<text x="48" y="168" font-size="10" fill="var(--muted)">supporting underserved communities in Ghana.</text>
+<text x="48" y="182" font-size="10" fill="var(--muted)">Multi-profile assessments, analytics and reports.</text>
+
+<rect x="48" y="196" width="46" height="16" rx="2" fill="var(--tag-bg)" stroke="var(--tag-border)" stroke-width="0.5"/>
+<text x="71" y="208" font-size="9" fill="var(--muted)" text-anchor="middle">react</text>
+
+<rect x="100" y="196" width="54" height="16" rx="2" fill="var(--tag-bg)" stroke="var(--tag-border)" stroke-width="0.5"/>
+<text x="127" y="208" font-size="9" fill="var(--muted)" text-anchor="middle">firebase</text>
+
+<rect x="160" y="196" width="58" height="16" rx="2" fill="var(--tag-bg)" stroke="var(--tag-border)" stroke-width="0.5"/>
+<text x="189" y="208" font-size="9" fill="var(--muted)" text-anchor="middle">firestore</text>
+
+<rect x="224" y="196" width="52" height="16" rx="2" fill="var(--tag-bg)" stroke="var(--tag-border)" stroke-width="0.5"/>
+<text x="250" y="208" font-size="9" fill="var(--muted)" text-anchor="middle">recharts</text>
+
+<!-- florence-2 -->
+<text x="356" y="136" font-size="11.5" font-weight="500" fill="var(--text)" letter-spacing="0.3">florence-2 detection</text>
+<text x="356" y="154" font-size="10" fill="var(--muted)">Fine-tuned Florence-2 for multiclass weapon</text>
+<text x="356" y="168" font-size="10" fill="var(--muted)">detection using LoRA and supervised image-text</text>
+<text x="356" y="182" font-size="10" fill="var(--muted)">training pipelines.</text>
+
+<rect x="356" y="196" width="44" height="16" rx="2" fill="var(--tag-bg)" stroke="var(--tag-border)" stroke-width="0.5"/>
+<text x="378" y="208" font-size="9" fill="var(--muted)" text-anchor="middle">python</text>
+
+<rect x="406" y="196" width="52" height="16" rx="2" fill="var(--tag-bg)" stroke="var(--tag-border)" stroke-width="0.5"/>
+<text x="432" y="208" font-size="9" fill="var(--muted)" text-anchor="middle">pytorch</text>
+
+<rect x="464" y="196" width="36" height="16" rx="2" fill="var(--tag-bg)" stroke="var(--tag-border)" stroke-width="0.5"/>
+<text x="482" y="208" font-size="9" fill="var(--muted)" text-anchor="middle">lora</text>
+
+<rect x="506" y="196" width="42" height="16" rx="2" fill="var(--tag-bg)" stroke="var(--tag-border)" stroke-width="0.5"/>
+<text x="527" y="208" font-size="9" fill="var(--muted)" text-anchor="middle">peft</text>
+
+<!-- classsync -->
+<text x="48" y="266" font-size="11.5" font-weight="500" fill="var(--text)" letter-spacing="0.3">classsync</text>
+<text x="48" y="284" font-size="10" fill="var(--muted)">UCLA degree and course tracker designed as a</text>
+<text x="48" y="298" font-size="10" fill="var(--muted)">faster alternative to the official student system.</text>
+<text x="48" y="312" font-size="10" fill="var(--muted)">Secure authentication and scalable course data.</text>
+
+<rect x="48" y="326" width="46" height="16" rx="2" fill="var(--tag-bg)" stroke="var(--tag-border)" stroke-width="0.5"/>
+<text x="71" y="338" font-size="9" fill="var(--muted)" text-anchor="middle">react</text>
+
+<rect x="100" y="326" width="54" height="16" rx="2" fill="var(--tag-bg)" stroke="var(--tag-border)" stroke-width="0.5"/>
+<text x="127" y="338" font-size="9" fill="var(--muted)" text-anchor="middle">firebase</text>
+
+<rect x="160" y="326" width="58" height="16" rx="2" fill="var(--tag-bg)" stroke="var(--tag-border)" stroke-width="0.5"/>
+<text x="189" y="338" font-size="9" fill="var(--muted)" text-anchor="middle">firestore</text>
+
+<rect x="224" y="326" width="34" height="16" rx="2" fill="var(--tag-bg)" stroke="var(--tag-border)" stroke-width="0.5"/>
+<text x="241" y="338" font-size="9" fill="var(--muted)" text-anchor="middle">vite</text>
+
+<!-- web server -->
+<text x="356" y="266" font-size="11.5" font-weight="500" fill="var(--text)" letter-spacing="0.3">http web server</text>
+<text x="356" y="284" font-size="10" fill="var(--muted)">Configurable HTTP server with asynchronous</text>
+<text x="356" y="298" font-size="10" fill="var(--muted)">request handling, routing, static file hosting</text>
+<text x="356" y="312" font-size="10" fill="var(--muted)">and extensible handler factories.</text>
+
+<rect x="356" y="326" width="36" height="16" rx="2" fill="var(--tag-bg)" stroke="var(--tag-border)" stroke-width="0.5"/>
+<text x="374" y="338" font-size="9" fill="var(--muted)" text-anchor="middle">c++</text>
+
+<rect x="398" y="326" width="42" height="16" rx="2" fill="var(--tag-bg)" stroke="var(--tag-border)" stroke-width="0.5"/>
+<text x="419" y="338" font-size="9" fill="var(--muted)" text-anchor="middle">boost</text>
+
+<rect x="446" y="326" width="42" height="16" rx="2" fill="var(--tag-bg)" stroke="var(--tag-border)" stroke-width="0.5"/>
+<text x="467" y="338" font-size="9" fill="var(--muted)" text-anchor="middle">asio</text>
+
+<rect x="494" y="326" width="46" height="16" rx="2" fill="var(--tag-bg)" stroke="var(--tag-border)" stroke-width="0.5"/>
+<text x="517" y="338" font-size="9" fill="var(--muted)" text-anchor="middle">docker</text>
+
+<line x1="32" y1="390" x2="648" y2="390" stroke="var(--border)" stroke-width="0.5"/>
+
+<!-- experience -->
+<text x="32" y="410" font-size="9" fill="var(--muted)" letter-spacing="2" font-weight="500">EXPERIENCE &amp; EDUCATION</text>
+
+<text x="32" y="430" font-size="11" font-weight="500" fill="var(--text)">Qualcomm AI Studio — AI Fellow</text>
+<text x="636" y="430" font-size="10" fill="var(--muted)" text-anchor="end">2024</text>
+<text x="32" y="444" font-size="10" fill="var(--muted)">computer vision · model training · data pipelines · PyTorch</text>
+
+<text x="32" y="462" font-size="11" font-weight="500" fill="var(--text)">Hack2Impact — Full-Stack Developer</text>
+<text x="636" y="462" font-size="10" fill="var(--muted)" text-anchor="end">2025</text>
+<text x="32" y="476" font-size="10" fill="var(--muted)">2nd place · nonprofit platform · React · Firebase · product delivery</text>
+
+<text x="32" y="494" font-size="11" font-weight="500" fill="var(--text)">University of California, Los Angeles — Computer Science</text>
+<text x="636" y="494" font-size="10" fill="var(--muted)" text-anchor="end">Graduate</text>
+<text x="32" y="508" font-size="10" fill="var(--muted)">software engineering · systems · databases · computer vision</text>
+
+<line x1="32" y1="524" x2="648" y2="524" stroke="var(--border)" stroke-width="0.5"/>
+
+<!-- stack -->
+<text x="32" y="544" font-size="9" fill="var(--muted)" letter-spacing="2" font-weight="500">STACK</text>
+
+<!-- row 1 -->
+<rect x="32" y="554" width="52" height="16" rx="2" fill="var(--tag-bg)" stroke="var(--tag-border)" stroke-width="0.5"/>
+<text x="58" y="566" font-size="9" fill="var(--muted)" text-anchor="middle">python</text>
+
+<rect x="90" y="554" width="38" height="16" rx="2" fill="var(--tag-bg)" stroke="var(--tag-border)" stroke-width="0.5"/>
+<text x="109" y="566" font-size="9" fill="var(--muted)" text-anchor="middle">c++</text>
+
+<rect x="134" y="554" width="72" height="16" rx="2" fill="var(--tag-bg)" stroke="var(--tag-border)" stroke-width="0.5"/>
+<text x="170" y="566" font-size="9" fill="var(--muted)" text-anchor="middle">typescript</text>
+
+<rect x="212" y="554" width="66" height="16" rx="2" fill="var(--tag-bg)" stroke="var(--tag-border)" stroke-width="0.5"/>
+<text x="245" y="566" font-size="9" fill="var(--muted)" text-anchor="middle">javascript</text>
+
+<rect x="284" y="554" width="42" height="16" rx="2" fill="var(--tag-bg)" stroke="var(--tag-border)" stroke-width="0.5"/>
+<text x="305" y="566" font-size="9" fill="var(--muted)" text-anchor="middle">react</text>
+
+<rect x="332" y="554" width="52" height="16" rx="2" fill="var(--tag-bg)" stroke="var(--tag-border)" stroke-width="0.5"/>
+<text x="358" y="566" font-size="9" fill="var(--muted)" text-anchor="middle">node.js</text>
+
+<rect x="390" y="554" width="54" height="16" rx="2" fill="var(--tag-bg)" stroke="var(--tag-border)" stroke-width="0.5"/>
+<text x="417" y="566" font-size="9" fill="var(--muted)" text-anchor="middle">firebase</text>
+
+<rect x="450" y="554" width="58" height="16" rx="2" fill="var(--tag-bg)" stroke="var(--tag-border)" stroke-width="0.5"/>
+<text x="479" y="566" font-size="9" fill="var(--muted)" text-anchor="middle">firestore</text>
+
+<rect x="514" y="554" width="52" height="16" rx="2" fill="var(--tag-bg)" stroke="var(--tag-border)" stroke-width="0.5"/>
+<text x="540" y="566" font-size="9" fill="var(--muted)" text-anchor="middle">pytorch</text>
+
+<!-- row 2 -->
+<rect x="32" y="576" width="46" height="16" rx="2" fill="var(--tag-bg)" stroke="var(--tag-border)" stroke-width="0.5"/>
+<text x="55" y="588" font-size="9" fill="var(--muted)" text-anchor="middle">docker</text>
+
+<rect x="84" y="576" width="42" height="16" rx="2" fill="var(--tag-bg)" stroke="var(--tag-border)" stroke-width="0.5"/>
+<text x="105" y="588" font-size="9" fill="var(--muted)" text-anchor="middle">boost</text>
+
+<rect x="132" y="576" width="44" height="16" rx="2" fill="var(--tag-bg)" stroke="var(--tag-border)" stroke-width="0.5"/>
+<text x="154" y="588" font-size="9" fill="var(--muted)" text-anchor="middle">cmake</text>
+
+<rect x="182" y="576" width="50" height="16" rx="2" fill="var(--tag-bg)" stroke="var(--tag-border)" stroke-width="0.5"/>
+<text x="207" y="588" font-size="9" fill="var(--muted)" text-anchor="middle">opencv</text>
+
+<rect x="238" y="576" width="54" height="16" rx="2" fill="var(--tag-bg)" stroke="var(--tag-border)" stroke-width="0.5"/>
+<text x="265" y="588" font-size="9" fill="var(--muted)" text-anchor="middle">mongodb</text>
+
+<rect x="298" y="576" width="38" height="16" rx="2" fill="var(--tag-bg)" stroke="var(--tag-border)" stroke-width="0.5"/>
+<text x="317" y="588" font-size="9" fill="var(--muted)" text-anchor="middle">git</text>
+
+<rect x="342" y="576" width="60" height="16" rx="2" fill="var(--tag-bg)" stroke="var(--tag-border)" stroke-width="0.5"/>
+<text x="372" y="588" font-size="9" fill="var(--muted)" text-anchor="middle">github actions</text>
+
+<rect x="408" y="576" width="48" height="16" rx="2" fill="var(--tag-bg)" stroke="var(--tag-border)" stroke-width="0.5"/>
+<text x="432" y="588" font-size="9" fill="var(--muted)" text-anchor="middle">numpy</text>
+
+<rect x="462" y="576" width="48" height="16" rx="2" fill="var(--tag-bg)" stroke="var(--tag-border)" stroke-width="0.5"/>
+<text x="486" y="588" font-size="9" fill="var(--muted)" text-anchor="middle">pandas</text>
+
+<line x1="32" y1="604" x2="648" y2="604" stroke="var(--border)" stroke-width="0.5"/>
+
+</svg>
