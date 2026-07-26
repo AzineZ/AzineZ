@@ -11,5 +11,5 @@
 ---
 
 <sub>
-Template made by <a href="https://github.com/DhritiVaz">@DhritiVaz</a>. Customized and adapted by Phi Nguyen.
+Template inspired by <a href="https://github.com/DhritiVaz">@DhritiVaz</a>. Customized and adapted by Phi Nguyen.
 </sub>
