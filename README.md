@@ -7,7 +7,6 @@
   &nbsp;&nbsp;·&nbsp;&nbsp;
   <code><a href="https://www.linkedin.com/in/phi-nguyen-ab34451b6/">linkedin</a></code>
 </p>
----
 
 <sub>
 Template inspired by <a href="https://github.com/DhritiVaz">@DhritiVaz</a>. Customized and adapted by Phi Nguyen.
